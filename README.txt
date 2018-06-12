@@ -1,5 +1,5 @@
 === Woocommerce Gift Coupon ===
-Contributors: studiosweb
+Contributors: studiosweb & Pravin Durugkar 
 Tags: generate coupons, coupons woocommerce, gift coupons, woocommerce gift coupon
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=F3E987XCMEGRQ
 Requires at least: 3.4
